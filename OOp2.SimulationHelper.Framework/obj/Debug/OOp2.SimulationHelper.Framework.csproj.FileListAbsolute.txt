@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\bin\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\bin\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\obj\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\obj\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\obj\Debug\OOp2.SimulationHelper.Framework.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\bin\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\bin\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\obj\Debug\OOp2.SimulationHelper.Framework.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\obj\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOp2.SimulationHelper.Framework\obj\Debug\OOp2.SimulationHelper.Framework.pdb

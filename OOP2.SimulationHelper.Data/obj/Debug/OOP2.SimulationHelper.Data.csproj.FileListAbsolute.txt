@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOP2.SimulationHelper.Data.dll.config
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOP2.SimulationHelper.Data.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOP2.SimulationHelper.Data.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\obj\Debug\OOP2.SimulationHelper.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\obj\Debug\OOP2.SimulationHelper.Data.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\obj\Debug\OOP2.SimulationHelper.Data.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOP2.SimulationHelper.Data.dll.config
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOP2.SimulationHelper.Data.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOP2.SimulationHelper.Data.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\obj\Debug\OOP2.SimulationHelper.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\obj\Debug\OOP2.SimulationHelper.Data.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.Data\obj\Debug\OOP2.SimulationHelper.Data.pdb

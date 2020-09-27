@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SimulationHelperModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SimulationHelperContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserInfoes" EntityType="SimulationHelperModel.UserInfo" />
+    <EntitySet Name="UserInputs" EntityType="SimulationHelperModel.UserInput" />
+    <AssociationSet Name="FK_UserInput_UserInfo" Association="SimulationHelperModel.FK_UserInput_UserInfo">
+      <End Role="UserInfo" EntitySet="UserInfoes" />
+      <End Role="UserInput" EntitySet="UserInputs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserTypeID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserInputs" Relationship="SimulationHelperModel.FK_UserInput_UserInfo" FromRole="UserInfo" ToRole="UserInput" />
+  </EntityType>
+  <EntityType Name="UserInput">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Inputs" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserInfo" Relationship="SimulationHelperModel.FK_UserInput_UserInfo" FromRole="UserInput" ToRole="UserInfo" />
+  </EntityType>
+  <Association Name="FK_UserInput_UserInfo">
+    <End Type="SimulationHelperModel.UserInfo" Role="UserInfo" Multiplicity="1" />
+    <End Type="SimulationHelperModel.UserInput" Role="UserInput" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserInfo">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="UserInput">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

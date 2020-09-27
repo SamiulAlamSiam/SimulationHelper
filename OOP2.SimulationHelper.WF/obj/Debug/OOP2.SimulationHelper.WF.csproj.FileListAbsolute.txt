@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.WF.exe.config
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.WF.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.WF.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Data.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Data.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.AdminManager.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.StudentManager.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.LOgInManager.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.Home.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Repo.dll
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Repo.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.SelectionSort.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.BubbleSort.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.BinarySearch.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.SimulationChooseButton.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.Registration.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.UserInfoManager.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.UserInputManager.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.InsertionSort.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.InputTitleName.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.LinearSearch.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.WF.exe.config
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.exe
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.WF.exe
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.WF.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Data.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOp2.SimulationHelper.Framework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Repo.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Data.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOp2.SimulationHelper.Framework.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\OOP2.SimulationHelper.Repo.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.AdminManager.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.BinarySearch.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.BubbleSort.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.LOgInManager.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.Home.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.InputTitleName.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.InsertionSort.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.LinearSearch.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.Registration.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.SelectionSort.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.SimulationChooseButton.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.StudentManager.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.UserInfoManager.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.UserInputManager.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\Project\OOP2.SimulationHelper\OOP2.SimulationHelper.WF\obj\Debug\OOP2.SimulationHelper.WF.csproj.GenerateResource.Cache
